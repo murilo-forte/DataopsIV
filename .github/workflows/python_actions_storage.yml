@@ -22,5 +22,5 @@ jobs:
           pip install google-cloud-storage
     - name: execute py script  
       run: 
-        python python_weather_storage.py
+        python python_names_storage.py
       
